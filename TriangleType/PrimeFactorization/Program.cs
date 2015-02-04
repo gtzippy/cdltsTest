@@ -21,8 +21,7 @@ namespace PrimeFactorization
             }
             if (Path.GetExtension(args[0]) != ".txt")    //only work with .txt files
             {
-                Console.WriteLine("Please Select a File With the '.txt' Extension \nPress Enter To Continue");
-                Console.ReadLine();
+                Console.WriteLine("Please Select a File With the '.txt' Extension");
                 return;
             }
             try   //try to read the sepecified file
@@ -31,7 +30,7 @@ namespace PrimeFactorization
             }
             catch (FileNotFoundException)
             {
-                Console.WriteLine("File Not Found.  Please Enter a Valid File \nPress Enter To Continue"); //Inform the user their file was not found at the specified locaton
+                Console.WriteLine("File Not Found.  Please Enter a Valid File "); //Inform the user their file was not found at the specified locaton
                 return;
             }
 
