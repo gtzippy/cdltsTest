@@ -4,3 +4,7 @@ C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\TriangleType\ArrayProble
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.pdb
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.exe
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.pdb
+H:\CodingProjects\cdltsTest\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.exe
+H:\CodingProjects\cdltsTest\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.pdb
+H:\CodingProjects\cdltsTest\TriangleType\ArrayProblem\bin\Debug\ArrayProblem.exe
+H:\CodingProjects\cdltsTest\TriangleType\ArrayProblem\bin\Debug\ArrayProblem.pdb

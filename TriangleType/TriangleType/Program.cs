@@ -5,15 +5,15 @@ using System.Text;
 
 namespace TriangleType
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine(triType(0, 2, 2));
             Console.ReadLine();
         }
 
-        static string triType(int side1, int side2, int side3)
+        public static string triType(int side1, int side2, int side3)
         {
             List<int> sides = new List<int> {side1, side2, side3};
             string triangleType = "Error: Invalid side lengths";
