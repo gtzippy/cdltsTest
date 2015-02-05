@@ -9,7 +9,7 @@ namespace TriangleType
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(triType(0, 2, 2));
+            Console.WriteLine(triType(1, 3, 2));
             Console.ReadLine();
         }
 

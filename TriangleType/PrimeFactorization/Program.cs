@@ -14,7 +14,6 @@ namespace PrimeFactorization
             IEnumerable<string> numbersString;
             if (!args.Any())  //if you run the exe by clicking then you wont have an input
             {
-                //args = new string[] {Environment.CurrentDirectory + "\\test1.txt"};
                 Console.WriteLine("Please drag txt file onto icon or use the command line to specify a target file to run program \nPress Enter To Continue");
                 Console.ReadLine();
                 return;
@@ -33,9 +32,8 @@ namespace PrimeFactorization
                 Console.WriteLine("File Not Found.  Please Enter a Valid File "); //Inform the user their file was not found at the specified locaton
                 return;
             }
-
             numbersString = numbersString.Where(entry => !string.IsNullOrWhiteSpace(entry));    //remove empty entries caused by empty lines
-            if (numbersString.Any(entry => !FunctionRepository.CheckStringValue(entry)))
+            if (numbersString.Any(entry => !FunctionRepository.CheckStringValue(entry)))        //end if any lines in the file cannot be parsed into Int32
             {
                 Console.WriteLine("All values in .txt file must be integers.  Please reference your file for non-integer values \nPress Enter To Continue");
                 Console.ReadLine();

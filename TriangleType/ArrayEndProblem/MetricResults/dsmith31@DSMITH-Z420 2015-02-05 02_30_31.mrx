@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeMetricsReport Version="10">
+   <Targets>
+      <Target Name="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\bin\Debug\Tests.dll">
+         <Modules>
+            <Module Name="Tests.dll" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="77" />
+                  <Metric Name="CyclomaticComplexity" Value="6" />
+                  <Metric Name="ClassCoupling" Value="5" />
+                  <Metric Name="DepthOfInheritance" Value="1" />
+                  <Metric Name="LinesOfCode" Value="16" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="Tests">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="77" />
+                        <Metric Name="CyclomaticComplexity" Value="6" />
+                        <Metric Name="ClassCoupling" Value="5" />
+                        <Metric Name="DepthOfInheritance" Value="1" />
+                        <Metric Name="LinesOfCode" Value="16" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="TestClass">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="77" />
+                              <Metric Name="CyclomaticComplexity" Value="6" />
+                              <Metric Name="ClassCoupling" Value="5" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="16" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="CountFifthFromEndSuccessTest() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\TestClass.cs" Line="15">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CountFourthFromEndSuccessTest() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\TestClass.cs" Line="22">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="AskForZerothFromEndFailure() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\TestClass.cs" Line="29">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="AskForNegativeIndexFromEndFailure() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\TestClass.cs" Line="36">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ArrayToShortFailureTest() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\TestClass.cs" Line="43">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="74" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="TestClass()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+      <Target Name="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\FunctionRepository\bin\Debug\FunctionRepository.dll">
+         <Modules>
+            <Module Name="FunctionRepository.dll" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="67" />
+                  <Metric Name="CyclomaticComplexity" Value="10" />
+                  <Metric Name="ClassCoupling" Value="6" />
+                  <Metric Name="DepthOfInheritance" Value="1" />
+                  <Metric Name="LinesOfCode" Value="27" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="FunctionRepository">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="67" />
+                        <Metric Name="CyclomaticComplexity" Value="10" />
+                        <Metric Name="ClassCoupling" Value="6" />
+                        <Metric Name="DepthOfInheritance" Value="1" />
+                        <Metric Name="LinesOfCode" Value="27" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="ArrayProblemFunctions">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="67" />
+                              <Metric Name="CyclomaticComplexity" Value="10" />
+                              <Metric Name="ClassCoupling" Value="6" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="27" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="GetNthFromEndEntry(List&lt;int&gt;, int) : string" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\FunctionRepository\ArrayProblemFunctions.cs" Line="11">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="54" />
+                                    <Metric Name="CyclomaticComplexity" Value="6" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="18" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsListValid(string) : bool" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\FunctionRepository\ArrayProblemFunctions.cs" Line="53">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="68" />
+                                    <Metric Name="CyclomaticComplexity" Value="2" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="6" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="HelpMessage() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\FunctionRepository\ArrayProblemFunctions.cs" Line="60">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="88" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ArrayProblemFunctions()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+      <Target Name="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\bin\Debug\ArrayProblem.exe">
+         <Modules>
+            <Module Name="ArrayProblem.exe" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="72" />
+                  <Metric Name="CyclomaticComplexity" Value="14" />
+                  <Metric Name="ClassCoupling" Value="9" />
+                  <Metric Name="DepthOfInheritance" Value="2" />
+                  <Metric Name="LinesOfCode" Value="32" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="ArrayProblem">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="72" />
+                        <Metric Name="CyclomaticComplexity" Value="14" />
+                        <Metric Name="ClassCoupling" Value="9" />
+                        <Metric Name="DepthOfInheritance" Value="2" />
+                        <Metric Name="LinesOfCode" Value="32" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="Program">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="60" />
+                              <Metric Name="CyclomaticComplexity" Value="7" />
+                              <Metric Name="ClassCoupling" Value="6" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="24" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="Main(string[]) : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\Program.cs" Line="13">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="51" />
+                                    <Metric Name="CyclomaticComplexity" Value="6" />
+                                    <Metric Name="ClassCoupling" Value="6" />
+                                    <Metric Name="LinesOfCode" Value="23" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Program()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="ConcreteQueue&lt;T&gt;">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="83" />
+                              <Metric Name="CyclomaticComplexity" Value="7" />
+                              <Metric Name="ClassCoupling" Value="3" />
+                              <Metric Name="DepthOfInheritance" Value="2" />
+                              <Metric Name="LinesOfCode" Value="8" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="maxSize.get() : int">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="98" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="maxSize.set(int) : void">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="95" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Enqueue(T) : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\ConcreteQueue.cs" Line="16">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="71" />
+                                    <Metric Name="CyclomaticComplexity" Value="4" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="5" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ConcreteQueue()" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\ConcreteQueue.cs" Line="12">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="92" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+   </Targets>
+</CodeMetricsReport>

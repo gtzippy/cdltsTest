@@ -1,0 +1,25 @@
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\Tests.dll
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\Tests.pdb
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\nunit.framework.dll
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\nunit.framework.xml
+H:\CodingProjects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.dll
+H:\CodingProjects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.pdb
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\TriangleType.exe
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\TriangleType.pdb
+H:\CodingProjects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\PrimeFactorization.exe
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\PrimeFactorization.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\Tests\bin\Debug\Tests.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\Tests\bin\Debug\Tests.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\Tests\bin\Debug\nunit.framework.xml
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\bin\Debug\Tests.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\bin\Debug\Tests.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\bin\Debug\nunit.framework.xml
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\obj\Debug\Tests.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\obj\Debug\Tests.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\Tests\bin\Debug\FunctionRepository.pdb

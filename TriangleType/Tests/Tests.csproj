@@ -48,16 +48,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestClass.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\PrimeFactorization\PrimeFactorization.csproj">
-      <Project>{0CC3FD7A-CDB7-42F1-9F97-0AC731BEF278}</Project>
-      <Name>PrimeFactorization</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TriangleType\TriangleType.csproj">
-      <Project>{2166F140-D236-4872-A1DA-2946031A9CC1}</Project>
-      <Name>TriangleType</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

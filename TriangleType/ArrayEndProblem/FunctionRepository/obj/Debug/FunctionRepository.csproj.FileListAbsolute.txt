@@ -1,0 +1,4 @@
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\FunctionRepository\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\FunctionRepository\bin\Debug\FunctionRepository.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\FunctionRepository\obj\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\FunctionRepository\obj\Debug\FunctionRepository.pdb
