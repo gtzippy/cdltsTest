@@ -50,6 +50,7 @@ namespace PrimeFactorizationGUI
 
         private void computePrimesButton_Click(object sender, EventArgs e)
         {
+            richTextBox1.Clear();
            if (!File.Exists(_filePath))
             {
                 MessageBox.Show("Select a valid .txt file");
