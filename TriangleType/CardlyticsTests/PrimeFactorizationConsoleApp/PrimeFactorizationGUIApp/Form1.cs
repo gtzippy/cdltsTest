@@ -29,10 +29,10 @@ namespace PrimeFactorizationGUI
             };
             ofd.ShowDialog();
             richTextBox1.Clear();
+            computePrimesButton.Enabled = false;
             if (string.IsNullOrWhiteSpace(ofd.FileName) || Path.GetExtension(ofd.FileName) != ".txt")   //only take in .txt files
             {
                 MessageBox.Show("Select a valid .txt file");
-                computePrimesButton.Enabled = false;
                 label1.Text = "No File Selected";
                 return;
             }
@@ -42,7 +42,6 @@ namespace PrimeFactorizationGUI
             if (_numbersString.Any(entry => !FunctionRepository.CheckStringValue(entry)))
             {
                 MessageBox.Show("All values in .txt file must be integers.  Please reference your file for non-integer values");
-                computePrimesButton.Enabled = false;
                 return;
             }
             computePrimesButton.Enabled = true;

@@ -1,0 +1,14 @@
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\obj\x86\Debug\PrimeFactorizationConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\PrimeFactorizationConsoleApp.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\PrimeFactorizationConsoleApp.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\FunctionRepository.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\obj\x86\Debug\PrimeFactorizationConsoleApp.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\obj\x86\Debug\PrimeFactorizationConsoleApp.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\PrimeFactorizationConsoleApp.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\PrimeFactorizationConsoleApp.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\FunctionRepository.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\obj\x86\Debug\PrimeFactorizationConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\obj\x86\Debug\PrimeFactorizationConsoleApp.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\obj\x86\Debug\PrimeFactorizationConsoleApp.pdb

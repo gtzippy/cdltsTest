@@ -1,0 +1,40 @@
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorizationGUI.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorizationGUI.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.Form1.resources
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.Properties.Resources.resources
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.csproj.GenerateResource.Cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorization.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorization.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.csprojResolveAssemblyReference.cache
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.exe
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.pdb
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorizationGUI.exe
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorizationGUI.pdb
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorization.exe
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorization.pdb
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.csprojResolveAssemblyReference.cache
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.Form1.resources
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.Properties.Resources.resources
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.csproj.GenerateResource.Cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.Form1.resources
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.Properties.Resources.resources
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.csproj.GenerateResource.Cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\PrimeFactorizationGUI.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\PrimeFactorizationGUI.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\FunctionRepository.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\PrimeFactorizationGUI.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\PrimeFactorizationGUI.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\FunctionRepository.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.Form1.resources
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.Properties.Resources.resources
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.csproj.GenerateResource.Cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\obj\x86\Debug\PrimeFactorizationGUI.pdb

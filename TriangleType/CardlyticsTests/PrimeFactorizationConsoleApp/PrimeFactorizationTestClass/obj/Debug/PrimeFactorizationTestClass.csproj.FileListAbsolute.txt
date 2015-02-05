@@ -1,0 +1,24 @@
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.dll
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.pdb
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\bin\Debug\nunit.framework.dll
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\bin\Debug\nunit.framework.xml
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.dll
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.pdb
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\bin\Debug\PrimeFactorization.exe
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\bin\Debug\PrimeFactorization.pdb
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\FunctionRepository.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\nunit.framework.xml
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\FunctionRepository.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\obj\Debug\PrimeFactorizationTestClass.pdb

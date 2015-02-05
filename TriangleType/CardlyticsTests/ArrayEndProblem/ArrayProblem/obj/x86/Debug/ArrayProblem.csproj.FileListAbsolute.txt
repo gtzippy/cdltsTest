@@ -1,0 +1,21 @@
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\TriangleType\ArrayProblem\bin\Debug\ArrayProblem.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\TriangleType\ArrayProblem\bin\Debug\ArrayProblem.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.pdb
+H:\CodingProjects\cdltsTest\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.exe
+H:\CodingProjects\cdltsTest\TriangleType\ArrayProblem\obj\x86\Debug\ArrayProblem.pdb
+H:\CodingProjects\cdltsTest\TriangleType\ArrayProblem\bin\Debug\ArrayProblem.exe
+H:\CodingProjects\cdltsTest\TriangleType\ArrayProblem\bin\Debug\ArrayProblem.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayProblem\bin\Debug\ArrayProblem.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayProblem\bin\Debug\ArrayProblem.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\obj\x86\Debug\ArrayProblem.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\obj\x86\Debug\ArrayProblem.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\bin\Debug\ArrayProblem.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\bin\Debug\ArrayProblem.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\bin\Debug\FunctionRepository.dll
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\bin\Debug\FunctionRepository.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\ArrayEndProblem\ArrayProblem\obj\x86\Debug\ArrayProblem.csprojResolveAssemblyReference.cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\ArrayEndProblem\ArrayProblem\obj\x86\Debug\ArrayProblem.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\ArrayEndProblem\ArrayProblem\obj\x86\Debug\ArrayProblem.pdb

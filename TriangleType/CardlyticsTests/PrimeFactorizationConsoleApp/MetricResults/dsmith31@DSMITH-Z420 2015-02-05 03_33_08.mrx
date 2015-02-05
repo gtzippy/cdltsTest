@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeMetricsReport Version="10">
+   <Targets>
+      <Target Name="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\bin\Debug\PrimeFactorizationConsoleApp.exe">
+         <Modules>
+            <Module Name="PrimeFactorizationConsoleApp.exe" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="59" />
+                  <Metric Name="CyclomaticComplexity" Value="11" />
+                  <Metric Name="ClassCoupling" Value="10" />
+                  <Metric Name="DepthOfInheritance" Value="1" />
+                  <Metric Name="LinesOfCode" Value="24" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="PrimeFactorizationConsoleApp">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="59" />
+                        <Metric Name="CyclomaticComplexity" Value="11" />
+                        <Metric Name="ClassCoupling" Value="10" />
+                        <Metric Name="DepthOfInheritance" Value="1" />
+                        <Metric Name="LinesOfCode" Value="24" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="Program">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="59" />
+                              <Metric Name="CyclomaticComplexity" Value="11" />
+                              <Metric Name="ClassCoupling" Value="10" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="24" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="Main(string[]) : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationConsoleApp\Program.cs" Line="13">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="50" />
+                                    <Metric Name="CyclomaticComplexity" Value="10" />
+                                    <Metric Name="ClassCoupling" Value="10" />
+                                    <Metric Name="LinesOfCode" Value="23" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Program()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+      <Target Name="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\FunctionRepository\bin\Debug\FunctionRepository.dll">
+         <Modules>
+            <Module Name="FunctionRepository.dll" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="66" />
+                  <Metric Name="CyclomaticComplexity" Value="21" />
+                  <Metric Name="ClassCoupling" Value="5" />
+                  <Metric Name="DepthOfInheritance" Value="1" />
+                  <Metric Name="LinesOfCode" Value="42" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="PrimeFactorization">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="66" />
+                        <Metric Name="CyclomaticComplexity" Value="21" />
+                        <Metric Name="ClassCoupling" Value="5" />
+                        <Metric Name="DepthOfInheritance" Value="1" />
+                        <Metric Name="LinesOfCode" Value="42" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="FunctionRepository">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="66" />
+                              <Metric Name="CyclomaticComplexity" Value="21" />
+                              <Metric Name="ClassCoupling" Value="5" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="42" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="CheckStringValue(string) : bool" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\FunctionRepository\FunctionRepository.cs" Line="20">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="86" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="2" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsPrime(int) : bool" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\FunctionRepository\FunctionRepository.cs" Line="35">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="69" />
+                                    <Metric Name="CyclomaticComplexity" Value="4" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="6" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="BuildOutputString(int, out string) : string" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\FunctionRepository\FunctionRepository.cs" Line="53">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="57" />
+                                    <Metric Name="CyclomaticComplexity" Value="5" />
+                                    <Metric Name="ClassCoupling" Value="1" />
+                                    <Metric Name="LinesOfCode" Value="15" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="BuildPrimeFactorList(int) : List&lt;int&gt;" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\FunctionRepository\FunctionRepository.cs" Line="84">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="57" />
+                                    <Metric Name="CyclomaticComplexity" Value="7" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="15" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ListProduct(IEnumerable&lt;int&gt;) : int" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\FunctionRepository\FunctionRepository.cs" Line="121">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="77" />
+                                    <Metric Name="CyclomaticComplexity" Value="3" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="FunctionRepository()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+      <Target Name="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.dll">
+         <Modules>
+            <Module Name="PrimeFactorizationTestClass.dll" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="80" />
+                  <Metric Name="CyclomaticComplexity" Value="26" />
+                  <Metric Name="ClassCoupling" Value="13" />
+                  <Metric Name="DepthOfInheritance" Value="1" />
+                  <Metric Name="LinesOfCode" Value="49" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="PrimeFactorizationTestClass">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="80" />
+                        <Metric Name="CyclomaticComplexity" Value="26" />
+                        <Metric Name="ClassCoupling" Value="13" />
+                        <Metric Name="DepthOfInheritance" Value="1" />
+                        <Metric Name="LinesOfCode" Value="49" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="TestClass">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="80" />
+                              <Metric Name="CyclomaticComplexity" Value="26" />
+                              <Metric Name="ClassCoupling" Value="13" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="49" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="BuildOutputStringTestValidNumber() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="16">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="78" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="BuildOutputStringTestPrimeNumber() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="24">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="77" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="BuildOutputStringTestNegativeNumber() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="32">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="77" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="BuildOutputStringTestZero() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="40">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="77" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="BuildOutputStringTestOne() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="48">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="77" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="BuildOutputStringTestSquareOfTwoPrimes() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="56">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="78" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="BuildPrimeFactorListTest() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="65">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="76" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="4" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="ListProductTest() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="72">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="75" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="4" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CheckStringValueTestValidInt() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="81">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CheckStringValueTestNegativeInt() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="86">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CheckStringValueTestInvalidInt() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="91">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CheckStringValueTestWhiteSpace() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="96">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CheckStringValueTestNonNumericString() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="101">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CheckStringValueTestNumberLargerThanInt32() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="106">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsPrimeTestSucceed() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="112">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsPrimeTestFailureNotPrimeCompositePositiveInteger() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="117">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsPrimeTestFailureNegativeInteger() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="122">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsPrimeTestFailureOne() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="127">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="IsPrimeTestFailureZero() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="132">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="94" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="CheckProductsVsInputsOfTestFile() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\TestClass.cs" Line="140">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="57" />
+                                    <Metric Name="CyclomaticComplexity" Value="6" />
+                                    <Metric Name="ClassCoupling" Value="11" />
+                                    <Metric Name="LinesOfCode" Value="12" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="TestClass()">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="100" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="0" />
+                                    <Metric Name="LinesOfCode" Value="1" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+      <Target Name="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\bin\Debug\PrimeFactorizationGUI.exe">
+         <Modules>
+            <Module Name="PrimeFactorizationGUI.exe" AssemblyVersion="1.0.0.0" FileVersion="1.0.0.0">
+               <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="68" />
+                  <Metric Name="CyclomaticComplexity" Value="17" />
+                  <Metric Name="ClassCoupling" Value="32" />
+                  <Metric Name="DepthOfInheritance" Value="7" />
+                  <Metric Name="LinesOfCode" Value="76" />
+               </Metrics>
+               <Namespaces>
+                  <Namespace Name="PrimeFactorizationGUI">
+                     <Metrics>
+                        <Metric Name="MaintainabilityIndex" Value="68" />
+                        <Metric Name="CyclomaticComplexity" Value="17" />
+                        <Metric Name="ClassCoupling" Value="32" />
+                        <Metric Name="DepthOfInheritance" Value="7" />
+                        <Metric Name="LinesOfCode" Value="76" />
+                     </Metrics>
+                     <Types>
+                        <Type Name="Form1">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="56" />
+                              <Metric Name="CyclomaticComplexity" Value="16" />
+                              <Metric Name="ClassCoupling" Value="29" />
+                              <Metric Name="DepthOfInheritance" Value="7" />
+                              <Metric Name="LinesOfCode" Value="73" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="Form1()" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\Form1.Designer.cs" Line="8">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="82" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="2" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="fileSelectButton_Click(object, EventArgs) : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\Form1.cs" Line="24">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="52" />
+                                    <Metric Name="CyclomaticComplexity" Value="8" />
+                                    <Metric Name="ClassCoupling" Value="17" />
+                                    <Metric Name="LinesOfCode" Value="18" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="computePrimesButton_Click(object, EventArgs) : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\Form1.cs" Line="52">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="66" />
+                                    <Metric Name="CyclomaticComplexity" Value="3" />
+                                    <Metric Name="ClassCoupling" Value="12" />
+                                    <Metric Name="LinesOfCode" Value="6" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="Dispose(bool) : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\Form1.Designer.cs" Line="15">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="80" />
+                                    <Metric Name="CyclomaticComplexity" Value="3" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                              <Member Name="InitializeComponent() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\Form1.Designer.cs" Line="30">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="43" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="13" />
+                                    <Metric Name="LinesOfCode" Value="43" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                        <Type Name="Program">
+                           <Metrics>
+                              <Metric Name="MaintainabilityIndex" Value="81" />
+                              <Metric Name="CyclomaticComplexity" Value="1" />
+                              <Metric Name="ClassCoupling" Value="3" />
+                              <Metric Name="DepthOfInheritance" Value="1" />
+                              <Metric Name="LinesOfCode" Value="3" />
+                           </Metrics>
+                           <Members>
+                              <Member Name="Main() : void" File="C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationConsoleApp\PrimeFactorizationGUIApp\Program.cs" Line="15">
+                                 <Metrics>
+                                    <Metric Name="MaintainabilityIndex" Value="81" />
+                                    <Metric Name="CyclomaticComplexity" Value="1" />
+                                    <Metric Name="ClassCoupling" Value="3" />
+                                    <Metric Name="LinesOfCode" Value="3" />
+                                 </Metrics>
+                              </Member>
+                           </Members>
+                        </Type>
+                     </Types>
+                  </Namespace>
+               </Namespaces>
+            </Module>
+         </Modules>
+      </Target>
+   </Targets>
+</CodeMetricsReport>
