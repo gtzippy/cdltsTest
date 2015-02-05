@@ -2,3 +2,7 @@ C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\P
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorization\bin\Debug\PrimeFactorization.pdb
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorization\obj\x86\Debug\PrimeFactorization.exe
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorization\obj\x86\Debug\PrimeFactorization.pdb
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorization\bin\Debug\PrimeFactorization.exe
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorization\bin\Debug\PrimeFactorization.pdb
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorization\obj\x86\Debug\PrimeFactorization.exe
+H:\CodingProjects\cdltsTest\TriangleType\PrimeFactorization\obj\x86\Debug\PrimeFactorization.pdb
