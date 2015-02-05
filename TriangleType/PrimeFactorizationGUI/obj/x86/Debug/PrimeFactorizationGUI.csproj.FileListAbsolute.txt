@@ -1,0 +1,10 @@
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorizationGUI.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorizationGUI.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.Form1.resources
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.Properties.Resources.resources
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.csproj.GenerateResource.Cache
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorization.exe
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\bin\Debug\PrimeFactorization.pdb
+C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\PrimeFactorizationGUI\obj\x86\Debug\PrimeFactorizationGUI.csprojResolveAssemblyReference.cache

@@ -11,8 +11,8 @@ namespace ArrayProblem
         static void Main(string[] args)
         {
             List<int> testList = new List<int> {1, 2, 3, 8, 5, 6};
-            Console.WriteLine(GetNthFromLast(testList,4));
-            Console.WriteLine(CantCountSolution(testList, 4));
+            Console.WriteLine(GetNthFromLast(testList,5));
+            Console.WriteLine(CantCountSolution(testList, 5));
             
             Console.ReadLine();
         }
