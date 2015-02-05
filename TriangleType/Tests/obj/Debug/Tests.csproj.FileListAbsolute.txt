@@ -1,0 +1,9 @@
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\Tests.dll
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\Tests.pdb
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\nunit.framework.dll
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\nunit.framework.xml
+H:\CodingProjects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.dll
+H:\CodingProjects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.pdb
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\TriangleType.exe
+H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\TriangleType.pdb
+H:\CodingProjects\cdltsTest\TriangleType\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
