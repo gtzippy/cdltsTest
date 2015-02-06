@@ -1,0 +1,38 @@
+1
+SELECT * from Customers
+
+2
+SELECT * from Customers
+LEFT JOIN orders
+on Customers.ID = Orders.Customer_ID
+WHERE Orders.ID IS NOT NULL
+
+3
+SELECT * from Customers
+LEFT JOIN orders
+on Customers.ID = Orders.Customer_ID
+WHERE Orders.ID IS NULL
+
+4
+I would index the ID column in the Customer table and the Customer_ID column in the Orders table.
+Those two columns are used to reference each other in the two tables.  Indexing the columns make
+searches on those columns faster.  Because we use those two columns to match orders to customers
+we can assume that they will be searched against most frequently.  Also, Address, phone numbers,
+emails, order amounts and even names can change.  Customer ID numbers will stay unique to that 
+customer.
+
+5
+SELECT Customers.NAME, Customers.EMAIL, Customers.`PHONE NUMBER`, (ISNULL(orders.ORDER_AMOUNT, 0))
+from Customers
+LEFT JOIN Orders
+on Customers.ID=Orders.Customer_ID
+
+A WORD ABOUT #5.  In MySQL IFNULL is used to return a different value if a query returns null.  I don't
+have MS SQL at home but ISNULL should do the same thing as I understand it.
+
+6
+SELECT *
+from Customers
+LEFT JOIN Orders
+on Customers.ID=Orders.Customer_ID
+WHERE Orders.ID IS NOT NULL AND Orders.ORDER_AMOUNT > 1 AND Orders.ORDER_AMOUNT < 6;

@@ -1,18 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\Tests.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-02-03" time="19:52:39">
+<test-results name="H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\bin\Debug\Tests.dll" total="10" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-02-05" time="19:28:04">
   <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="SILVER" user="Daniel" user-domain="Silver" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="H:\CodingProjects\cdltsTest\TriangleType\Tests\bin\Debug\Tests.dll" executed="True" result="Success" success="True" time="0.011" asserts="0">
+  <test-suite type="Assembly" name="H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\bin\Debug\Tests.dll" executed="True" result="Success" success="True" time="0.118" asserts="0">
     <results>
-      <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.010" asserts="0">
+      <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.100" asserts="0">
         <results>
-          <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.010" asserts="0">
+          <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.097" asserts="0">
             <results>
-              <test-case name="Tests.TestClass.EquilateralTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Tests.TestClass.EquilateralTest" executed="True" result="Success" success="True" time="0.051" asserts="1" />
               <test-case name="Tests.TestClass.InvalidTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
               <test-case name="Tests.TestClass.IsoscelesTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Tests.TestClass.LargeNumberFailure" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+              <test-case name="Tests.TestClass.NoInputsFailure" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Tests.TestClass.NonIntegerInputFailure" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Tests.TestClass.NonIntegerInputFailureBeforeLargeNumberFailure" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Tests.TestClass.NotEnoughInputsFailure" executed="True" result="Success" success="True" time="0.000" asserts="1" />
               <test-case name="Tests.TestClass.ScaleneTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="Tests.TestClass.ToManyInputsFailure" executed="True" result="Success" success="True" time="0.000" asserts="1" />
             </results>
           </test-suite>
         </results>

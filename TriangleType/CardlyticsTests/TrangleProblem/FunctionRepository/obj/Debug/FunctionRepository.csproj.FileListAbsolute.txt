@@ -6,3 +6,7 @@ C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\C
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\FunctionRepository\bin\Debug\FunctionRepository.pdb
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\FunctionRepository\obj\Debug\FunctionRepository.dll
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\FunctionRepository\obj\Debug\FunctionRepository.pdb
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\FunctionRepository\bin\Debug\FunctionRepository.dll
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\FunctionRepository\bin\Debug\FunctionRepository.pdb
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\FunctionRepository\obj\Debug\FunctionRepository.dll
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\FunctionRepository\obj\Debug\FunctionRepository.pdb

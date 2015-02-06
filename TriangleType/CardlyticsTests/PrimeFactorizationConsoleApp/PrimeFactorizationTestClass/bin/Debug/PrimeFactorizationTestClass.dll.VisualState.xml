@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1021]H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.dll</TopNode>
+  <SelectedNode>[0-1021]H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1021]H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\PrimeFactorizationConsoleApp\PrimeFactorizationTestClass\bin\Debug\PrimeFactorizationTestClass.dll" Expanded="true" />
+    <Node UniqueName="[0-1022]PrimeFactorizationTestClass" Expanded="true" />
+    <Node UniqueName="[0-1000]PrimeFactorizationTestClass.TestClass" Expanded="true" />
+  </Nodes>
+</VisualState>

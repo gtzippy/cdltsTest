@@ -24,3 +24,10 @@ C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\C
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\bin\Debug\FunctionRepository.dll
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\bin\Debug\FunctionRepository.pdb
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\obj\x86\Debug\TriangleType.csprojResolveAssemblyReference.cache
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\obj\x86\Debug\TriangleType.exe
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\obj\x86\Debug\TriangleType.pdb
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\bin\Debug\TriangleType.exe
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\bin\Debug\TriangleType.pdb
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\bin\Debug\FunctionRepository.dll
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\bin\Debug\FunctionRepository.pdb
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\TriangleType\obj\x86\Debug\TriangleType.csprojResolveAssemblyReference.cache

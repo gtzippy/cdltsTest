@@ -9,13 +9,13 @@ namespace FunctionRepository
     {
         public static string ValidInputs(string[] args)
         {
-            if (!args.Any())
-            {
-                return "Please enter 3 valid positive integers";
-            }
-            if (args.Count() != 3)
+            if (args.Count() > 3)
             {
                 return "Please enter ONLY 3 valid positive integers";
+            }
+            if (args.Count() < 3)
+            {
+                return "Please enter 3 valid positive integers";
             }
             try
             {

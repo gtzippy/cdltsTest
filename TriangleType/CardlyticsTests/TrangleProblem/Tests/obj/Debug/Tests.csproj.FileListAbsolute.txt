@@ -31,3 +31,12 @@ C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\C
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\obj\Debug\Tests.dll
 C:\Users\dsmith31\Documents\Visual Studio 2010\Projects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\obj\Debug\Tests.pdb
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\bin\Debug\Tests.dll
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\bin\Debug\Tests.pdb
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\bin\Debug\FunctionRepository.dll
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\bin\Debug\nunit.framework.dll
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\bin\Debug\FunctionRepository.pdb
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\bin\Debug\nunit.framework.xml
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\obj\Debug\Tests.dll
+H:\CodingProjects\cdltsTest\TriangleType\CardlyticsTests\TrangleProblem\Tests\obj\Debug\Tests.pdb
